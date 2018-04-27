@@ -177,20 +177,20 @@
 .ps{
     display: inline-block;
     width: 0.44rem;
-    height: 3.4rem;
+    height: 3.5rem;
     background-color: #fff;
     margin-left: 0.2rem;
-    margin-top: 1.1rem;
+    margin-top: 1rem;
     animation: ps 3s linear;  
 }
 
 .ai{
     display: inline-block;
     width: 0.44rem;
-    height: 3.2rem;
+    height: 3.3rem;
     background-color: #fff;
     margin-left: 0.2rem;
-    margin-top: 1.3rem;
+    margin-top: 1.2rem;
     animation: ai 3s linear;  
 }
 
