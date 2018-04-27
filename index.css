@@ -9,6 +9,10 @@
     /* height: 40rem; */
 }
 
+body{
+    overflow-x:hidden;
+}
+
 .nav{
     width: 7.5rem;
     height: 0.8rem;
