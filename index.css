@@ -131,7 +131,7 @@ body{
     margin-left: 0.3rem;
 }
 
-.skill .box1{
+/* .skill .box1{
     position: absolute;
     top: 1.55rem;
     left: 1.11rem;
@@ -140,9 +140,9 @@ body{
     border-left: 0.1rem transparent solid;
     border-right: 0.1rem transparent solid;
     border-bottom: 0.1rem #fff solid;
-}
+} */
 
-.skill .box2{
+/* .skill .box2{
     position: absolute;
     top: 6rem;
     left: 7.2rem;
@@ -151,7 +151,7 @@ body{
     border-left: 0.1rem #fff solid;
     border-top: 0.1rem transparent solid;
     border-bottom: 0.1rem transparent solid;
-}
+} */
 
 
 .skill .skillBox{
