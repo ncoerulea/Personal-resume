@@ -4,12 +4,6 @@
     list-style: none;
 }
 
-.wrapper{
-    width: 7;
-    /* height: 40rem; */
-    
-}
-
 .nav{
     width: 7rem;
     height: 0.8rem;
@@ -107,7 +101,7 @@
 
 .skill>span{
     display:inline-block;
-    width:7.5rem;
+    width:7.2rem;
     height:1rem;
     padding-left: 0.2rem;
     color: #fff;
