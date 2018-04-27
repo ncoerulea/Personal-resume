@@ -236,17 +236,17 @@
 
 @keyframes ps{
     0% {margin-top:4.5rem;}
-    100% {margin-top:1.3rem;}
+    100% {margin-top:0.9rem;}
 }
 
 @keyframes ai{
     0% {margin-top:4.5rem;}
-    100% {margin-top:2.2rem;}
+    100% {margin-top:1.2rem;}
 }
 
 @keyframes cdr{
     0% {margin-top:4.5rem;}
-    100% {margin-top:1.5rem;}
+    100% {margin-top:0.7rem;}
 }
 
 @keyframes html{
