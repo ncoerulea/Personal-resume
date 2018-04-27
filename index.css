@@ -181,7 +181,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 1.3rem;
-    animation: ps 3s linear forwards;  
+    animation: ps 3s linear;  
 }
 
 .ai{
@@ -191,7 +191,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 2.2rem;
-    animation: ai 3s linear forwards;  
+    animation: ai 3s linear;  
 }
 
 .cdr{
@@ -201,7 +201,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 1.5rem;
-    animation: cdr 3s linear forwards;  
+    animation: cdr 3s linear;  
 }
 
 .html{
@@ -211,7 +211,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 1.7rem;
-    animation: html 3s linear forwards;  
+    animation: html 3s linear;  
 }
 
 .css{
@@ -221,7 +221,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 1.4rem;
-    animation: css 3s linear forwards;  
+    animation: css 3s linear;  
 }
 
 .js{
@@ -231,7 +231,7 @@
     background-color: #fff;
     margin-left: 0.2rem;
     margin-top: 2.2rem;
-    animation: js 3s linear forwards;  
+    animation: js 3s linear;  
 }
 
 @keyframes ps{
