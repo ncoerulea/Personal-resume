@@ -106,14 +106,11 @@
 }
 
 .skill>span{
-    display: inline-block;
     padding-left: 0.2rem;
-    line-height: 1rem;
+    color: rgb(33, 86, 166);
     font-size: 0.5rem;
     font-family: "微软雅黑";
     font-weight: 600;
-    color: #fff;
-
 }
 
 .skill .designs{
@@ -304,14 +301,11 @@
 
 
 .resume>span{
-    display: inline-block;
     padding-left: 0.2rem;
-    line-height: 1rem;
+    color: rgb(33, 86, 166);
     font-size: 0.5rem;
     font-family: "微软雅黑";
     font-weight: 600;
-    color: rgb(33, 86, 166);
-
 }
 
 .education{
