@@ -177,30 +177,30 @@
 .ps{
     display: inline-block;
     width: 0.44rem;
-    height: 3.6rem;
+    height: 3.3rem;
     background-color: #fff;
     margin-left: 0.2rem;
-    margin-top: 0.9rem;
+    margin-top: 1.2rem;
     animation: ps 3s linear;  
 }
 
 .ai{
     display: inline-block;
     width: 0.44rem;
-    height: 3.3rem;
+    height: 3.1rem;
     background-color: #fff;
     margin-left: 0.2rem;
-    margin-top: 1.2rem;
+    margin-top: 1.4rem;
     animation: ai 3s linear;  
 }
 
 .cdr{
     display: inline-block;
     width: 0.44rem;
-    height: 3.8rem;
+    height: 4rem;
     background-color: #fff;
     margin-left: 0.2rem;
-    margin-top: 0.7rem;
+    margin-top: 1rem;
     animation: cdr 3s linear;  
 }
 
@@ -236,17 +236,17 @@
 
 @keyframes ps{
     0% {margin-top:4.5rem;}
-    100% {margin-top:0.9rem;}
+    100% {margin-top:1.2rem;}
 }
 
 @keyframes ai{
     0% {margin-top:4.5rem;}
-    100% {margin-top:1.2rem;}
+    100% {margin-top:1.4rem;}
 }
 
 @keyframes cdr{
     0% {margin-top:4.5rem;}
-    100% {margin-top:0.7rem;}
+    100% {margin-top:1rem;}
 }
 
 @keyframes html{
